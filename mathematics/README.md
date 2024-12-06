@@ -1,6 +1,6 @@
 # Mathematics
 ## Order of Problems
-- count_digis
+- count_digits
 - factorial_of_a_number
 - trailing_zeros_in_factorial
 - gcd_of_two_numbers
