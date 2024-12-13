@@ -2,7 +2,7 @@
 ## Order of Problems
 - count_digits
 - factorial_of_a_number
-- trailing_zeros_in_factorial
+- trailing_zeros_in_factorial (Challenge)
 - gcd_of_two_numbers
 - all_divisors_of_a_number
 - primality_test_easy
