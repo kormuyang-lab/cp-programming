@@ -10,5 +10,6 @@
 - prime_factors
 - sieve_of_eratosthenese (Ref: https://youtu.be/klcIklsWzrY?si=Z8-2zM5wzVQ9b3kY) (Challenge)
 - exactly_three_divisors
+- exactly_n_divisors
 - computing_power
 - modular_exponentiation (Challenge)
